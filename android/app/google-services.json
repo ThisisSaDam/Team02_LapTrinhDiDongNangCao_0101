@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1064735442499",
+    "project_id": "fashion-shop-v1",
+    "storage_bucket": "fashion-shop-v1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064735442499:android:59c5be276abdf1f61a36f6",
+        "android_client_info": {
+          "package_name": "com.example.fashio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfHNmI9kM-M3DEBVFsqu-0ZBbiq2iJmHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064735442499:android:2b55b1e0ea93b3041a36f6",
+        "android_client_info": {
+          "package_name": "com.example.fashion_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfHNmI9kM-M3DEBVFsqu-0ZBbiq2iJmHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064735442499:android:5658b764e8ca84c91a36f6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_provider_shopping_cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfHNmI9kM-M3DEBVFsqu-0ZBbiq2iJmHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
